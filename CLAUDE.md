@@ -13,6 +13,7 @@ Ce dépôt ne contient pas de code : c'est un dossier de documentation pour l'é
 - `fiche présentation projet e6-ir apprentissage.docx` : modèle officiel de la fiche. Le `.md` du même nom en est une conversion brute (faite avec un script Python, pas pandoc, qui n'est pas installé) ; les images, en-têtes et pieds de page sont perdus.
 - `grille_auto_eval-1.pdf` : grille d'auto-évaluation.
 - `exemples_presentation/` : fiches d'étudiants d'années précédentes, en PDF. Ce dossier est dans `.gitignore` ; certains fichiers sont en lecture seule et nominatifs, ne pas les republier ni les citer.
+- `exemples_anonymes/` : versions Markdown anonymisées de ces fiches (noms, entreprises et coordonnées fictifs, schémas redessinés en mermaid). Ce sont elles qu'il faut utiliser ou citer.
 
 ## Règles à respecter pour tout contenu produit pour les étudiants
 
